@@ -1,0 +1,12 @@
+{
+  "android": {
+    "version": "1.2.0",
+    "version_code": 3,
+    "min_required_version": "1.0.0",
+    "download_url": "https://twojanazwa.github.io/app-updates/app-v1.2.0.apk",
+    "force_update": false,
+    "release_notes": {
+      "pl": "• Nowe funkcje\n• Poprawki błędów"
+    }
+  }
+}
