@@ -1,7 +1,7 @@
 {
   "android": {
-    "version": "1.48",
-    "version_code": 5,
+    "version": "1.55",
+    "version_code": 6,
     "min_required_version": "1.48",
     "download_url": "https://drive.google.com/file/d/16sUjDIiRop153O2F9QiGKN0RMsSDD8tt/view?usp=drivesdk",
     "force_update": false,
