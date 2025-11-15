@@ -3,7 +3,7 @@
     "version": "2.40",
     "version_code": 11,
     "min_required_version": "1.55",
-    "download_url": "https://drive.google.com/file/d/16sUjDIiRop153O2F9QiGKN0RMsSDD8tt/view?usp=drivesdk",
+    "download_url": "https://drive.google.com/file/d/16sUjDIiRop153O2F9QiGKN0RMsSDD8tt/view?usp=drive_link",
     "force_update": false,
     "release_notes": {
       "pl": "• Poprawa błędów, dodanie nowych zabezpieczeń oraz szyfrowania aplikacji"
