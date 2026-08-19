@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "2.70",
-    "version_code": 14,
+    "version": "3.0",
+    "version_code": 15,
     "min_required_version": "2.4",
     "download_url": "https://drive.google.com/file/d/16sUjDIiRop153O2F9QiGKN0RMsSDD8tt/view?usp=drivesdk",
     "force_update": false,
     "release_notes": {
-      "pl": "• Dodanie kalendarza ze zbiórkami "
+      "pl": "• Naprawienie błędów aplikacji, poprawienie dopasowywania się aplikacji "
     }
   }
 }
