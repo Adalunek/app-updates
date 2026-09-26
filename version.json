@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "3.0",
-    "version_code": 15,
+    "version": "3.2",
+    "version_code": 16,
     "min_required_version": "2.4",
     "download_url": "https://drive.google.com/file/d/16sUjDIiRop153O2F9QiGKN0RMsSDD8tt/view?usp=drivesdk",
     "force_update": false,
     "release_notes": {
-      "pl": "• Naprawienie błędów aplikacji, poprawienie dopasowywania się aplikacji "
+      "pl": "• Naprawienie błędów aplikacji, poprawienie wyglądu aplikacji i obecności"
     }
   }
 }
