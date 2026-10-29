@@ -1,12 +1,12 @@
 {
   "android": {
-    "version": "3.2",
-    "version_code": 16,
-    "min_required_version": "2.4",
+    "version": "3.22",
+    "version_code": 18,
+    "min_required_version": "2.6",
     "download_url": "https://drive.google.com/file/d/16sUjDIiRop153O2F9QiGKN0RMsSDD8tt/view?usp=drivesdk",
     "force_update": false,
     "release_notes": {
-      "pl": "• Naprawienie błędów aplikacji, poprawienie wyglądu aplikacji i obecności"
+      "pl": "• Dodanie personalizowanych kont użytkowników, poprawa wyglądu aplikacji"
     }
   }
 }
